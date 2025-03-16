@@ -1,75 +1,134 @@
+{
+  "users": [
+      {
+          "id":1,
+          "name":"Sergey",
+          "surname":"Belousov",
+          "photo":"",
+          "balance":1500
+      }
+  ,
     {
-        "users": [
-            {
-                "id":1,
-                "name":"Sergey",
-                "surname":"Belousov",
-                "photo":"",
-                "balance":1500
-            }
-        ,
-          {
-                "id":2,
-                "name":"Denis",
-                "surname":"Fey",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":3,
-                "name":"Sergey",
-                "surname":"Drevesnyi",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":4,
-                "name":"Tatsiana",
-                "surname":"Smolakova",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":5,
-                "name":"Alina",
-                "surname":"Skorohodina",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":6,
-                "name":"Milana",
-                "surname":"Krasivaya",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":7,
-                "name":"Alina",
-                "surname":"Kozlova",
-                "photo":"",
-                "balance":1500
-            },
-              {
-                "id":8,
-                "name":"Eva",
-                "surname":"Pushkina",
-                "photo":"",
-                "balance":1500
-            },
-            {
-                "id":9,
-                "name":"Sergey",
-                "surname":"Krasnov",
-                "photo":"",
-                "balance":1500
-            },
-            {
-                "id":10,
-                "name":"Maksim",
-                "surname":"Sobiratel",
-                "photo":"",
-                "balance":1500
-            }
-        ]
-    }
+          "id":2,
+          "name":"Denis",
+          "surname":"Fey",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":3,
+          "name":"Sergey",
+          "surname":"Drevesnyi",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":4,
+          "name":"Tatsiana",
+          "surname":"Smolakova",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":5,
+          "name":"Alina",
+          "surname":"Skorohodina",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":6,
+          "name":"Milana",
+          "surname":"Krasivaya",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":7,
+          "name":"Alina",
+          "surname":"Kozlova",
+          "photo":"",
+          "balance":1500
+      },
+        {
+          "id":8,
+          "name":"Eva",
+          "surname":"Pushkina",
+          "photo":"",
+          "balance":1500
+      },
+      {
+          "id":9,
+          "name":"Sergey",
+          "surname":"Krasnov",
+          "photo":"",
+          "balance":1500
+      },
+      {
+          "id":10,
+          "name":"Maksim",
+          "surname":"Sobiratel",
+          "photo":"",
+          "balance":1500
+      }
+  ],
+  "producs":[
+     
+{
+  "id": 1,
+  "name": "Green Apple",
+  "prise": "1.50",
+  "photo": "green_apple.jpg",
+  "desc": "Fresh and crisp green apple."
+},
+{
+  "id": 2,
+  "name": "Green Tea",
+  "prise": "4.00",
+  "photo": "green_tea.jpg",
+  "desc": "Soothing and aromatic green tea."
+},
+{
+  "id": 3,
+  "name": "Green Bag",
+  "prise": "25.00",
+  "photo": "green_bag.jpg",
+  "desc": "Stylish eco-friendly green bag."
+},
+{
+  "id": 4,
+  "name": "Green Chair",
+  "prise": "45.00",
+  "photo": "green_chair.jpg",
+  "desc": "Comfortable green office chair."
+},
+{
+  "id": 5,
+  "name": "Green Lantern",
+  "prise": "10.00",
+  "photo": "green_lantern.jpg",
+  "desc": "Portable green camping lantern."
+},
+{
+  "id": 6,
+  "name": "Green Notebook",
+  "prise": "5.00",
+  "photo": "green_notebook.jpg",
+  "desc": "Handy green notebook for notes."
+},
+{
+  "id": 7,
+  "name": "Green Mug",
+  "prise": "8.00",
+  "photo": "green_mug.jpg",
+  "desc": "Durable green ceramic mug."
+},
+{
+  "id": 8,
+  "name": "Green Plant",
+  "prise": "15.00",
+  "photo": "green_plant.jpg",
+  "desc": "Lush and vibrant green plant."
+}
+]
+}
